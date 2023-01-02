@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@200&family=Noto+Serif&family=Roboto+Condensed:ital,wght@0,300;1,400&display=swap');
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: darkseagreen;
+    font-family: 'Noto Serif', serif ;
+}
+.uprow{
+    display:flex;
+    height: 35%;
+    padding-bottom: 200px;
+}
+.up-left{
+    width:50%;
+    padding-left: 120px;
+    padding-top: 55px;
+    font-size: 30px;
+    font-weight: 500;
+   
+    
+}
+.up-right{
+    width: 50%;
+    padding-top: 50px;
+    font-size: 20px;
+   
+    font-weight: 500;
+    padding-right: 120;
+}
+downrow{
+    width: 100%;
+    height: 70%;
+    
+}
+.image
+    img{
+  width: 100%;
+    padding-left: 120px;
+    padding-right: 120px;
+    height: 370px;
+}
